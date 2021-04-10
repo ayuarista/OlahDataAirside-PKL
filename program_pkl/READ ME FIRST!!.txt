@@ -1,8 +1,0 @@
-Cara penggunaan:
-
-
-1. extract file pada directory D:\ 
-2. program berada pada excel "new"
-3. buka excel "new" untuk menjalankan aplikasi
-
-program berupa module excel (VBA)
