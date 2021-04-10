@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="AirsideDatabaseDataSet2" targetNamespace="http://tempuri.org/AirsideDatabaseDataSet2.xsd" xmlns:mstns="http://tempuri.org/AirsideDatabaseDataSet2.xsd" xmlns="http://tempuri.org/AirsideDatabaseDataSet2.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="AirsideDatabaseConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="AirsideDatabaseConnectionString (Settings)" PropertyReference="ApplicationSettings.OlahDataAirside.Properties.Settings.GlobalReference.Default.AirsideDatabaseConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="databaseTableAdapter" GeneratorDataComponentClassName="databaseTableAdapter" Name="database" UserDataComponentName="databaseTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="AirsideDatabaseConnectionString (Settings)" DbObjectName="database" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT tahun FROM [database]</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="tahun" DataSetColumn="tahun" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="AirsideDatabaseDataSet2" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="AirsideDatabaseDataSet2" msprop:Generator_UserDSName="AirsideDatabaseDataSet2">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="database" msprop:Generator_TableClassName="databaseDataTable" msprop:Generator_TableVarName="tabledatabase" msprop:Generator_TablePropName="database" msprop:Generator_RowDeletingName="databaseRowDeleting" msprop:Generator_RowChangingName="databaseRowChanging" msprop:Generator_RowEvHandlerName="databaseRowChangeEventHandler" msprop:Generator_RowDeletedName="databaseRowDeleted" msprop:Generator_UserTableName="database" msprop:Generator_RowChangedName="databaseRowChanged" msprop:Generator_RowEvArgName="databaseRowChangeEvent" msprop:Generator_RowClassName="databaseRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="tahun" msprop:Generator_ColumnVarNameInTable="columntahun" msprop:Generator_ColumnPropNameInRow="tahun" msprop:Generator_ColumnPropNameInTable="tahunColumn" msprop:Generator_UserColumnName="tahun" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

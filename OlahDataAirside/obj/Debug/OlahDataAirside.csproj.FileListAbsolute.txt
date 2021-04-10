@@ -1,0 +1,46 @@
+c:\users\hp\source\repos\OlahDataAirside\OlahDataAirside\bin\Debug\AirsideDatabase.accdb
+c:\users\hp\source\repos\OlahDataAirside\OlahDataAirside\bin\Debug\OlahDataAirside.exe.config
+c:\users\hp\source\repos\OlahDataAirside\OlahDataAirside\bin\Debug\OlahDataAirside.exe
+c:\users\hp\source\repos\OlahDataAirside\OlahDataAirside\bin\Debug\OlahDataAirside.pdb
+c:\users\hp\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.csprojResolveAssemblyReference.cache
+c:\users\hp\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.Form2.resources
+c:\users\hp\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.Form1.resources
+c:\users\hp\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.Properties.Resources.resources
+c:\users\hp\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.csproj.GenerateResource.Cache
+c:\users\hp\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.csproj.CoreCompileInputs.cache
+c:\users\hp\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.exe
+c:\users\hp\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.pdb
+c:\users\hp\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.input.resources
+c:\users\hp\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.Form3.resources
+E:\PERKULIAHAN\DATA AYU\source\source\repos\OlahDataAirside\OlahDataAirside\bin\Debug\AirsideDatabase.accdb
+E:\PERKULIAHAN\DATA AYU\source\source\repos\OlahDataAirside\OlahDataAirside\bin\Debug\OlahDataAirside.exe.config
+E:\PERKULIAHAN\DATA AYU\source\source\repos\OlahDataAirside\OlahDataAirside\bin\Debug\OlahDataAirside.exe
+E:\PERKULIAHAN\DATA AYU\source\source\repos\OlahDataAirside\OlahDataAirside\bin\Debug\OlahDataAirside.pdb
+E:\PERKULIAHAN\DATA AYU\source\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.csprojResolveAssemblyReference.cache
+E:\PERKULIAHAN\DATA AYU\source\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.Form2.resources
+E:\PERKULIAHAN\DATA AYU\source\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.Form3.resources
+E:\PERKULIAHAN\DATA AYU\source\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.input.resources
+E:\PERKULIAHAN\DATA AYU\source\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.Form1.resources
+E:\PERKULIAHAN\DATA AYU\source\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.Properties.Resources.resources
+E:\PERKULIAHAN\DATA AYU\source\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.csproj.GenerateResource.Cache
+E:\PERKULIAHAN\DATA AYU\source\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.csproj.CoreCompileInputs.cache
+E:\PERKULIAHAN\DATA AYU\source\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.exe
+E:\PERKULIAHAN\DATA AYU\source\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.pdb
+E:\PERKULIAHAN\DATA AYU\source\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.Form4.resources
+E:\PERKULIAHAN\DATA AYU\source\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.Form5.resources
+D:\source\repos\OlahDataAirside\OlahDataAirside\bin\Debug\AirsideDatabase.accdb
+D:\source\repos\OlahDataAirside\OlahDataAirside\bin\Debug\OlahDataAirside.exe.config
+D:\source\repos\OlahDataAirside\OlahDataAirside\bin\Debug\OlahDataAirside.exe
+D:\source\repos\OlahDataAirside\OlahDataAirside\bin\Debug\OlahDataAirside.pdb
+D:\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.csprojResolveAssemblyReference.cache
+D:\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.Form2.resources
+D:\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.Form3.resources
+D:\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.Form4.resources
+D:\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.Form5.resources
+D:\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.input.resources
+D:\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.Form1.resources
+D:\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.Properties.Resources.resources
+D:\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.csproj.GenerateResource.Cache
+D:\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.csproj.CoreCompileInputs.cache
+D:\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.exe
+D:\source\repos\OlahDataAirside\OlahDataAirside\obj\Debug\OlahDataAirside.pdb
